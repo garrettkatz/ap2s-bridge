@@ -3,3 +3,8 @@ body {
     margin: 0;
     padding: 2em 15%;
 }
+
+h1,h2,div {
+    text-align:center;
+}
+
